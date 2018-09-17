@@ -1,0 +1,71 @@
+{
+    "batchcomplete": true,
+    "continue": {
+        "gpsoffset": 10,
+        "continue": "gpsoffset||"
+    },
+    "query": {
+        "redirects": [
+                      {
+                      "index": 4,
+                      "from": "Sachin Tyagi",
+                      "to": "Solhah Singaarr"
+                      },
+                      {
+                      "index": 3,
+                      "from": "Sachin The Film",
+                      "to": "Sachin: A Billion Dreams"
+                      }
+                      ],
+        "pages": [
+                  {
+                  "pageid": 57570,
+                  "ns": 0,
+                  "title": "Sachin Tendulkar",
+                  "index": 1,
+                  "thumbnail": {
+                  "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sachin_Tendulkar_at_MRF_Promotion_Event.jpg/50px-Sachin_Tendulkar_at_MRF_Promotion_Event.jpg",
+                  "width": 50,
+                  "height": 45
+                  },
+                  "terms": {
+                  "description": [
+                                  "Indian cricketer"
+                                  ]
+                  }
+                  },
+                  {
+                  "pageid": 6957873,
+                  "ns": 0,
+                  "title": "Sachin Pilot",
+                  "index": 7,
+                  "thumbnail": {
+                  "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Sachin_Pilot_at_the_India_Economic_Summit_2010_cropped.jpg/39px-Sachin_Pilot_at_the_India_Economic_Summit_2010_cropped.jpg",
+                  "width": 39,
+                  "height": 50
+                  },
+                  "terms": {
+                  "description": [
+                                  "Indian Politician, born 1977"
+                                  ]
+                  }
+                  },
+                  {
+                  "pageid": 10730502,
+                  "ns": 0,
+                  "title": "Sachin (actor)",
+                  "index": 6,
+                  "thumbnail": {
+                  "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/SachinPilgaonkar.jpg/33px-SachinPilgaonkar.jpg",
+                  "width": 33,
+                  "height": 50
+                  },
+                  "terms": {
+                  "description": [
+                                  "Indian actor, director, producer, Writer, singer"
+                                  ]
+                  }
+                  }
+                  ]
+    }
+}
